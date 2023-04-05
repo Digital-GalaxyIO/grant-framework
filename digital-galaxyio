@@ -91,48 +91,32 @@ In that time, I believe I’ve built a solid name within the community, always o
 
 ### Roadmap
 
-> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).[Phase 2.docx](https://github.com/ProtonProtocol/grant-framework/files/11100853/Phase.2.docx)
+https://discordapp.com/channels/1007618287233929256/1007619164913021038/1093174484204273745
 
 
 ### Milestones
 
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-> For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
-
-> FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
-
-> Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
-
-### Milestone Example
+https://discordapp.com/channels/1007618287233929256/1007619164913021038/1093172528748441650
 
 - **Milestone:** 1
 - **Estimated duration:** 6 month
 - **FTE:**  3 - 2 Devs and 1 UI
 - **Costs:** 60,000 USD
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
-| 0c. | Article | We will publish an **article** that explains [Milestone 1] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Proton | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  We will build everything in Figma with a clickable demo to the the devs to build, we build the concept to get that clickable demo to get the testing demo for the community.
-| 2. | Front-End / User Interface | We will create a UI that connects to Proton & Digital Galaxy |  
-| 3. | API interface to our app | We will create an API that connect to DG |  
 
-> Add more milestones as needed.
-
-Milestone 1 is to build a LaunchPad - think OpenSea & Magic Eden, with that you need to build WL tools, different levels to buy and time on WL plus public sale, stop secondary until full minted if collection wants that setting, placeholder before reveal, we will have to build tools that connect to discord to select roles within the WL. LaunchPad landing paid with calender on drops coming soon, help projects with marketing and understanidng of Proton.
-Content Hub - like medium but we can think token down the line to reward users
-Generic updates on nodes and infrastructure plus enhancing the basics on the website to keep improving the user experience
-NFT Collections Landing page so creators with multiple collections can showcase the work better
-Reporting and Analytics for both buyers and sellers - attract more NFT traders
-[Phase 2.docx](https://github.com/ProtonProtocol/grant-framework/files/11100899/Phase.2.docx)
+Milestone 1 is to build a LaunchPad that brings us on par with other major ecosystems that utilize existing NFT technology and marketplaces - similar to OpenSea & Magic Eden,
+-A main focus of the Phase 2 Milestone 1 is the need to build WL tools, different levels for purchasing
+-Tools for secondary market sale fucntionality  LaunchPad landing paid with calender on drops coming soon, help projects with marketing and understanidng of Proton.
+-Content Hub - like medium but we can think token down the line to reward users
+-Generic updates on nodes and infrastructure plus enhancing the basics on the website to keep improving the user experience
+-NFT Collections Landing page so creators with multiple collections can showcase the work better
+-Reporting and Analytics for both buyers and sellers - attract more NFT traders
+https://discordapp.com/channels/1007618287233929256/1007619164913021038/1093174484204273745
 
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future? We will use our network, SEO and marketing to attract new projects to Proton and DG, we have built a solid network across different ecosystems.
+We will use our network to bring engagement to the ec, SEO and marketing to attract new projects to Proton and DG, we have built a solid network across different ecosystems.
 
 ### Additional Information
 
